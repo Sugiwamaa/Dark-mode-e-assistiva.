@@ -1,0 +1,111 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  
+body {
+
+    width: 45%;
+    margin: 0 auto;
+
+}
+
+header {
+
+    background-color: #8a2424;
+    width: 25cm;
+    height: 6cm;
+    border-radius: 10cm;
+
+
+}
+
+h1 {
+
+color: white;
+text-align: center;
+font-size: 100px;
+font-family:'Century Gothic'
+
+}
+
+h2 {
+
+color: rgb(143, 189, 196);
+text-align: left;
+font-size: 37px;
+font-family: 'Broadway';
+
+}
+
+h3 {
+
+    color: rgb(238, 236, 139);
+    text-align: left;
+    font-size: 29px;
+    font-family: 'Bernard MT';
+
+}
+
+p {
+
+color: rgb(255, 255, 255);
+font-family: 'Bradley Hand ITC';
+font-size: 25px;
+font-weight: bolder;
+text-align:start;
+
+}
+main {
+  display: flex;
+}
+
+article {
+  flex: 4;
+}
+
+aside {
+    
+    margin-right: 10px;
+    background-color: #964444;
+    width: 115ch;
+    height: 30ch;
+    text-align: left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+Aside h3 {
+
+
+text-align: center;
+font-size: 50px;
+}
+
+
+footer {
+
+margin-bottom: 3px;
+background-color: #131313;
+width: max-content;
+
+}
+
+a {
+
+color: #95f0f8;
+font-size: 30px;
+
+}
+
+
+.uau {
+
+color: rgb(255, 255, 255);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11px;
+text-align: center;
+
+}
